@@ -158,7 +158,7 @@ enum ZMChatNotifyType_t
 
 #define ZM_MAX_MANI_DESC         256
 
-#define ZM_WALK_SPEED               190.0f
+#define ZM_WALK_SPEED               220.0f
 
 #define ZM_MIN_FOV          75 // Not the absolute minimum. GetMinFOV will not use this.
 
